@@ -1,7 +1,7 @@
 #firebase_admin
 #streamlit
 #python==3.9.5
-urllib3==1.26.7
+urllib3==1.22.7
 numpy==1.22.4
 streamlit-option-menu
 Pillow
